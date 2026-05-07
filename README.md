@@ -1,3 +1,3 @@
 # Keyboard-using-Pico
 
-![Pico Pins](pico pins.png)
+![Pico Pins](picopins.png)
